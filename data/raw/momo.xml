@@ -1,0 +1,26 @@
+<transactions>
+  <transaction id="TXN-001" channel="sms">
+    <date>12/05/2024</date>
+    <amount>GHS 50.00</amount>
+    <phone>+233 20 123 4567</phone>
+    <description>Cash In from Jane</description>
+  </transaction>
+  <transaction id="TXN-002" channel="sms">
+    <date>13/05/2024</date>
+    <amount>GHS 120.00</amount>
+    <phone>+233 24 987 6543</phone>
+    <description>Cash Out to merchant</description>
+  </transaction>
+  <transaction id="TXN-003" channel="sms">
+    <date>2024-05-14</date>
+    <amount>30.00</amount>
+    <phone>+233 50 222 3344</phone>
+    <description>Transfer to family</description>
+  </transaction>
+  <transaction id="TXN-004" channel="sms">
+    <date>15/05/2024</date>
+    <amount>15.50</amount>
+    <phone>+233 27 333 4444</phone>
+    <description>Airtime purchase</description>
+  </transaction>
+</transactions>

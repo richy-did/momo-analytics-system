@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MoMo Analytics Dashboard</title>
+    <link rel="stylesheet" href="web/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">MoMo Analytics System</p>
+        <h1>Transaction Dashboard</h1>
+      </div>
+      <button id="reloadButton">Refresh</button>
+    </header>
+
+    <main class="container">
+      <section class="summary-grid" id="summaryGrid"></section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Category Breakdown</h2>
+        </div>
+        <div id="categoryChart" class="chart"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Recent Transactions</h2>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Type</th>
+                <th>Amount</th>
+                <th>Phone</th>
+                <th>Channel</th>
+              </tr>
+            </thead>
+            <tbody id="transactionTableBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="web/chart_handler.js"></script>
+  </body>
+</html>

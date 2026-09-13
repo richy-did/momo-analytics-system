@@ -1,0 +1,76 @@
+{
+  "summary": [
+    {
+      "label": "Total transactions",
+      "value": 4
+    },
+    {
+      "label": "Total amount",
+      "value": 215.5
+    },
+    {
+      "label": "Cash In",
+      "value": 1
+    },
+    {
+      "label": "Cash Out",
+      "value": 1
+    }
+  ],
+  "categories": [
+    {
+      "label": "Cash In",
+      "value": 1
+    },
+    {
+      "label": "Cash Out",
+      "value": 1
+    },
+    {
+      "label": "Transfer",
+      "value": 1
+    },
+    {
+      "label": "Pay Bill",
+      "value": 0
+    },
+    {
+      "label": "Airtime",
+      "value": 1
+    },
+    {
+      "label": "Unknown",
+      "value": 0
+    }
+  ],
+  "transactions": [
+    {
+      "date": "2024-05-12",
+      "type": "cash_in",
+      "amount": 50.0,
+      "phone": "201234567",
+      "channel": "sms"
+    },
+    {
+      "date": "2024-05-13",
+      "type": "cash_out",
+      "amount": 120.0,
+      "phone": "249876543",
+      "channel": "sms"
+    },
+    {
+      "date": "2024-05-14",
+      "type": "transfer",
+      "amount": 30.0,
+      "phone": "502223344",
+      "channel": "sms"
+    },
+    {
+      "date": "2024-05-15",
+      "type": "airtime",
+      "amount": 15.5,
+      "phone": "273334444",
+      "channel": "sms"
+    }
+  ]
+}
