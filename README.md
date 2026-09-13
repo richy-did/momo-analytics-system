@@ -14,16 +14,17 @@ This repository contains a starter full-stack analytics pipeline for the assignm
 
 ## Team and assignment context
 - Team name: MoMo Analytics System
-- Team members: Solo developer / project owner
+- Team members: Solo developer / Munezero jean pierre
 - Repository purpose: Enterprise-style data processing and analytics prototype
+- This is an individual submission completed as a solo project, following the instructor's direction for joining the assignment late.
 
 ## Architecture diagram
 - Diagram file: [docs/architecture-diagram.svg](docs/architecture-diagram.svg)
 - Mermaid source: [docs/architecture-diagram.md](docs/architecture-diagram.md)
 
 ## Scrum board
-- Project board: https://github.com/yourusername/momo-analytics-system/projects/1
-- Planning notes: [docs/scrum-board.md](docs/scrum-board.md)
+- Project board: https://github.com/richy-did/momo-analytics-system/projects/1
+- Planning notes: [Trello Board](https://trello.com/invite/b/6aa6bf968f97117846531f5c/ATTI15e19514e98934e86037c961b89eb270BE2C38CF/momo-analytics-system)
 
 > Since this is a solo project, the work is organized as a single-person Agile board with the required To Do, In Progress, and Done columns.
 
